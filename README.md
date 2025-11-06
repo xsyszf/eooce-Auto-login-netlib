@@ -9,9 +9,9 @@
 
 ### 使用方法
 1. fork 此项目
-2：在Actions菜单允许 `I understand my workflows, go ahead and enable them` 按钮
+2. 在Actions菜单允许 `I understand my workflows, go ahead and enable them` 按钮
 
-3. 在 GitHub 仓库的 Settings → Secrets and variables → Actions 中添加以下环境变量
+4. 在 GitHub 仓库的 Settings → Secrets and variables → Actions 中添加以下环境变量
 ```
 ACCOUNTS	Netlib账户(必填)，格式(单账号)：用户名:密码    格式(多账号)：用户名1:密码1,用户名2:密码2
 
